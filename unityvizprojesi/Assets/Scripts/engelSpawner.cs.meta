@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 33e21e737f46f2f45869dc3e5ed010c6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - engelPrefab: {fileID: 2207506191276826449, guid: 8f8126c978c377e469085ec0e98616fd, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
